@@ -14,12 +14,12 @@
 
 ## Introduction
 
-This respository aims at providing a sample of my abilities and a practice in the form of a improving and maintaining coding and scientific computational skills. This personal challenge is to provide a solution to the wide range of For You To Try (FYTT) exercises in the form of functions that would allow the user to input values or utilize the functions for practical simulations.
+This respository aims at providing a sample of my abilities and a practice in the form of a improving and maintaining coding and scientific computational skills. This personal challenge is to provide a solution to the wide range of For You To Try (FYTT) exercises in the form of functions that would allow the user to input values or utilize the functions for practical simulations. If you are a physics or engineering student after I completed the course  use my code as reference or for guidance please make sure you cite this resource, don't be the person that is caught plagiarizing! This is a free & public resource on my github, so if you can find it, chances are your professor and instructors can too! Good luck with your studies :)
 
 With my solutions I strive to supply an example of my ability in the following areas:
 
 - problem-solving 
-- translation of mathematical concepts to code
+- translation of physics concepts to code
 - electrical & computer engineering
 - scientific computation
 - object-oriented design
@@ -32,26 +32,16 @@ The original questions can be found within the respository called the FYTT, thes
 
 ## General Synopsis
 
+Each of these programs and code can be accessed in their own folder, with corresponding documentation as needed or required within the project or computational ask from the instrcutors.
 
-### Chapter 1: What is a Differential Equaion
 
-### Chapter 2: Solutions to First-Order DEs
+### Electricity & Magnestism Project #1: Due Date - September 19, 2024
 
-### Chapter 3: Introduction to Higher-Order DEs
+### Electricity & Magnestism Project #2: Due Date - October 17, 2024
 
-### Chapter 4: Some Basic Solution Techniques for Higher-Order Linear DEs
+### Electricity & Magnestism Project #2: Due Date - November 14, 2024
 
-### Chapter 5: Solution Methods for Nonhomogeneous DEs
 
-### Chapter 6: Laplace transforms
-
-### Chapter 7: Using power series to solve DEs
-
-### Chapter 8: An Introduction to Systems of First-Order ODEs224
-
-### Chapter 9: Fourier Series
-
-### Chapter 10: Using what you have learned and Projects
 Chapter 10 is not contain within the course, but this is the development of a personal projects as a Computer Engineering Student at the University of Guelph. I aimed at applying the field of differential equations with Electrical circuits and physics. I designed my own projects and applied these topics in areas that could serve to be useful int he future for potential employers and researchers.
 
 
