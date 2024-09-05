@@ -32,16 +32,25 @@ The original questions can be found within the respository called the FYTT, thes
 
 ## General Synopsis
 
-Each of these programs and code can be accessed in their own folder, with corresponding documentation as needed or required within the project or computational ask from the instrcutors.
+### Chapter 1: What is a Differential Equaion
 
+### Chapter 2: Solutions to First-Order DEs
 
-### Electricity & Magnestism Project #1: Due Date - September 19, 2024
+### Chapter 3: Introduction to Higher-Order DEs
 
-### Electricity & Magnestism Project #2: Due Date - October 17, 2024
+### Chapter 4: Some Basic Solution Techniques for Higher-Order Linear DEs
 
-### Electricity & Magnestism Project #2: Due Date - November 14, 2024
+### Chapter 5: Solution Methods for Nonhomogeneous DEs
 
+### Chapter 6: Laplace transforms
 
+### Chapter 7: Using power series to solve DEs
+
+### Chapter 8: An Introduction to Systems of First-Order ODEs224
+
+### Chapter 9: Fourier Series
+
+### Chapter 10: Using what you have learned and Projects
 Chapter 10 is not contain within the course, but this is the development of a personal projects as a Computer Engineering Student at the University of Guelph. I aimed at applying the field of differential equations with Electrical circuits and physics. I designed my own projects and applied these topics in areas that could serve to be useful int he future for potential employers and researchers.
 
 
